@@ -5,8 +5,8 @@
 %global crate openssl-probe
 
 Name:           rust-%{crate}
-Version:        0.1.2
-Release:        10%{?dist}
+Version:        0.1.5
+Release:        1%{?dist}
 Summary:        Tool for helping to find SSL certificate locations on the system for OpenSSL
 
 # Upstream license specification: MIT/Apache-2.0
