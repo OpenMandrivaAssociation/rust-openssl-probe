@@ -5,7 +5,7 @@
 %global crate openssl-probe
 
 Name:           rust-%{crate}
-Version:        0.1.5
+Version:        0.2.1
 Release:        1%{?dist}
 Summary:        Tool for helping to find SSL certificate locations on the system for OpenSSL
 
